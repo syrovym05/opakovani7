@@ -1,0 +1,10 @@
+G:\PRG\opakovani7\opakovani7\bin\Debug\opakovani7.exe.config
+G:\PRG\opakovani7\opakovani7\bin\Debug\opakovani7.exe
+G:\PRG\opakovani7\opakovani7\bin\Debug\opakovani7.pdb
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.csprojAssemblyReference.cache
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.Form1.resources
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.Properties.Resources.resources
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.csproj.GenerateResource.cache
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.csproj.CoreCompileInputs.cache
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.exe
+G:\PRG\opakovani7\opakovani7\obj\Debug\opakovani7.pdb
